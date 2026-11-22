@@ -1,0 +1,9 @@
+[package]
+name = "calor"
+version = "0.1.0"
+description = "Тепло ноутбука без привязки к устройству и ОС: тренды датчиков, запас до критической температуры, предупреждения о перегреве и здоровье охлаждения по неделям"
+edition = "2024"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/Redox-openDriver/calor"
+
+[dependencies]
